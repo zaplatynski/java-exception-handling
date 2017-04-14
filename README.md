@@ -4,7 +4,11 @@
 
 As a prerequisite, this book assumes basic knowledge of Java programming.
 
+## Contents
+
 The contents can be found under [summary](/SUMMARY.md).
+
+## Download
 
 The gitbook can be read on [gitbook.com](https://zaplatynski.gitbooks.io/java-exception-handling) or [github.com](https://github.com/zaplatynski/java-exception-handling) and downloaded in different formats:
 
