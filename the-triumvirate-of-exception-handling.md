@@ -1,6 +1,6 @@
-# The Triumvirate Of Errors
+# The Triumvirate Of Exception Handling
 
-Three base categories in Java which can be used to signal abnormal program behavior:
+There are three base categories in Java which can be used to signal abnormal program behavior:
 
 1. **Errors**
 2. **Checked Exceptions**
