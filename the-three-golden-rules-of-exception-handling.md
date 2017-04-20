@@ -34,7 +34,7 @@ Always provide contextual details so that a technical support can comprehend the
 throw new MyException("An error has occurred while reading customer record no " + customerNo, causingException);
 ```
 
-The **silver bullet** or best -in-class solution would be to use error codes \(only once!\) as we might experienced them in enterprise software such as OracleDB \(ORA-Codes\). There are pattern to use Java enumerations \(enum classes\) to model such codes with I18N \(ResourceBundles\) and use the IDE usage search to find immediately the place where the exception was created.
+The **silver bullet** or best -in-class solution would be to use **error codes** \(only once!\) as we might experienced them in enterprise software such as OracleDB \(ORA-Codes\). There are pattern to use Java enumerations \(enum classes\) to model such codes with I18N \(ResourceBundles\) and use the IDE usage search to find immediately the place where the exception was created.
 
 ## Throw Early
 
