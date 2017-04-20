@@ -18,7 +18,7 @@ Let us have a look to this table to see how the mapping is taking place:
 | **Checked Exception** | java.lang.**Exception** |
 | **Unchecked Exception** | java.lang.**RuntimeException** |
 
-In UML representation we get this class diagram which shows a certain structure:
+In UML representation we get this class diagram which reveals that every Java class above can be thrown in the sense of Java programmimg since it derives from **Throwable**:
 
 ![](/assets/UMLexceptions.png)
 
