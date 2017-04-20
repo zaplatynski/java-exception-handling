@@ -6,7 +6,7 @@ Three base categories in Java which can be used to signal abnormal program behav
 2. **Checked Exceptions**
 3. **Unchecked Exceptions**
 
-_**TODO: make connection between cats and clases**_
+_**TODO: make connection between cats and classes**_
 
 In UML representation we get this class diagram which shows a certain structure:
 
