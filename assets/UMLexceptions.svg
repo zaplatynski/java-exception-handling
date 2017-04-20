@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="12cm" height="14cm" viewBox="18 53 224 269" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="76" y="55" width="110.1" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="76" y="55" width="110.1" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:italic;font-weight:normal" x="131.05" y="71">&lt;&lt;interface&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="131.05" y="90">Throwable</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="20" y="180" width="98.6" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="20" y="180" width="98.6" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="69.3" y="196">&lt;&lt;class&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="69.3" y="215">Exception</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="131.05,118.742 131.05,147.5 69.3,147.5 69.3,178.494 "/>
+    <polygon style="fill: #ffffff" points="139.05,118.742 131.05,102.742 123.05,118.742 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="139.05,118.742 131.05,102.742 123.05,118.742 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="161" y="181" width="79.3" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="161" y="181" width="79.3" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="200.65" y="197">&lt;&lt;class&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="200.65" y="216">Error</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="131.05,118.742 131.05,148 200.65,148 200.65,179.494 "/>
+    <polygon style="fill: #ffffff" points="139.05,118.742 131.05,102.742 123.05,118.742 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="139.05,118.742 131.05,102.742 123.05,118.742 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="53" y="277" width="174.35" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="53" y="277" width="174.35" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="140.175" y="293">&lt;&lt;class&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="140.175" y="312">RuntimeException</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="69.3,243.742 69.3,258.5 140.175,258.5 140.175,275.494 "/>
+    <polygon style="fill: #ffffff" points="77.3,243.742 69.3,227.742 61.3,243.742 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="77.3,243.742 69.3,227.742 61.3,243.742 "/>
+  </g>
+</svg>
