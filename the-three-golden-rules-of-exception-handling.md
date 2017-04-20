@@ -2,7 +2,7 @@
 
 # The Three Golden Rules of Exception Handling
 
-In this chapter we will learn that there are only **three **basic ** **or golden** rules** we should follow to do effective Java exception handling. The basis for chapter this was written down by Chris Adamson in December 2003 at [Java Today](http://today.java.net/pub/a/today/2003/12/04/exceptions.html). In short these three rules are:
+In this chapter we will learn that there are only **three** basic  or **golden** rules we should follow to do effective Java exception handling. The basis for chapter this was written down by Chris Adamson in December 2003 at [Java Today](http://today.java.net/pub/a/today/2003/12/04/exceptions.html). In short these three rules are:
 
 1. **Be Specific**
 2. **Throw Early**
@@ -88,6 +88,4 @@ In Java there are only to real options how we can deal with exceptions:
 A lot of developers think we have to do the first and handle the Exception. In many cases this is plain wrong. Very often it is very useful if we define a central place to deal with all exceptions. An Example is not so trivial like the both topics above. Let us say we have a [servlet class](https://en.wikipedia.org/wiki/Java_servlet) and implemented the [front controller pattern](https://en.wikipedia.org/wiki/Front_controller) the the central place to manage Exceptions is one of the do-methods in the servlet class the this would be the central place to deal with all kind of exceptions which are user input errors.
 
 What we can observe very often is catching the exception and maybe log it. Or re-throw. Or both. This can be considered an anti-pattern and we will discuss this later.
-
-
 
