@@ -1,6 +1,6 @@
 # 
 
-# The Three Golden Rules of Exception Handling
+# The Three Golden Rules Of Exception Handling
 
 In this chapter we will learn that there are only **three** basic  or **golden** rules we should follow to do effective Java exception handling. The basis for chapter this was written down by Chris Adamson in December 2003 at [Java Today](http://today.java.net/pub/a/today/2003/12/04/exceptions.html). In short these three rules are:
 
