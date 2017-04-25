@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
-As a prerequisite, this book assumes basic knowledge of Java programming and as such the knwoledge abot the basic mechanism of exeception handling like **thows**, **throw** and **try-catch**.
+As a prerequisite, this book assumes [basic knowledge of Java programming](https://docs.oracle.com/javase/tutorial/) and as such the knwoledge abot the [basics of exeception handling](https://docs.oracle.com/javase/tutorial/essential/exceptions/) like **thows**, **throw** and **try-catch**.
 
 ## Table Of Contents
 
